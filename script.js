@@ -288,7 +288,7 @@ function trocarImagem(escolha) {
           urlNova = 'WhatsApp Image 2026-08-30 at 21.22.03 (1).jpeg';
           textoprincipal.innerText="Como o Sol produz a energia em forma de luz e calor que chega à Terra?";
           texto.innerText="Por meio da fusão nuclear em seu núcleo, onde o hidrogênio é transformado em hélio, liberando muita energia.";
-          descrevefigura.innerText="Imagem do Sol na cor amarela ";
+          descrevefigura.innerText="A imagem mostra o Sol visto de frente, ocupando grande parte do centro da cena. Ele aparece como uma enorme esfera brilhante em tons de amarelo, laranja e dourado, com uma superfície irregular e cheia de áreas mais claras e mais escuras. Na superfície, podem ser observadas várias regiões muito luminosas, semelhantes a explosões ou manchas solares. Na parte superior esquerda, há uma grande erupção de material solar, formando um arco avermelhado que se eleva para fora da superfície. Ao redor do Sol há um intenso brilho alaranjado que ilumina o espaço. O fundo é escuro e está repleto de pequenas estrelas. A imagem transmite a aparência de uma estrela muito quente e ativa, liberando grandes quantidades de energia.";
           break;
      case "7":
           urlNova = 'WhatsApp Image 2026-08-30 at 21.22.03 (2).jpeg';
