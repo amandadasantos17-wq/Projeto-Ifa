@@ -285,7 +285,7 @@ function trocarImagem(escolha) {
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
           break;
      case "6":
-          urlNova = 'café.png';
+          urlNova = 'WhatsApp Image 2026-08-30 at 21.22.03 (1).jpeg';
           textoprincipal.innerText="Como o Sol produz a energia em forma de luz e calor que chega à Terra?";
           texto.innerText="Por meio da fusão nuclear em seu núcleo, onde o hidrogênio é transformado em hélio, liberando muita energia.";
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
