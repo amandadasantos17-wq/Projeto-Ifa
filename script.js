@@ -269,7 +269,7 @@ function trocarImagem(escolha) {
         case "3":
           urlNova = 'café.png';
           textoprincipal.innerText="Como explicar o Sol?";
-          texto.innerText="O Sol é uma estrela gigante feita de gás quente que fica no centro do nosso Sistema Solar, a 150 milhões de quilômetros da Terra. Ele dá luz e calor ao nosso planeta, controla a gravidade que segura os planetas ao seu redor e é essencial para a existência de toda a vida.";
+          texto.innerText="Era um estado teórico de densidade e temperatura extremamente altas, no qual toda a matéria e energia do Universo observável estariam concentradas.";
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
           break;
     case "4":
