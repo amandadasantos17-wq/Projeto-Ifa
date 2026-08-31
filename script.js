@@ -273,7 +273,7 @@ function trocarImagem(escolha) {
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
           break;
     case "4":
-          urlNova = 'café.png';
+          urlNova = 'WhatsApp Image 2026-08-30 at 21.22.02 (1).jpeg';
           textoprincipal.innerText="Qual é a composição do Universo?";
           texto.innerText="O Universo é composto principalmente por energia escura, matéria escura e matéria comum (átomos).";
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
