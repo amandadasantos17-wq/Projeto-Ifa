@@ -262,49 +262,49 @@ function trocarImagem(escolha) {
           break;
         case "2":
           urlNova = 'cordosol.jfif';
-          textoprincipal.innerText="A verdadeira cor do SOL ";
+          textoprincipal.innerText="Como ocorre o nascimento e a evolução de uma estrela ao longo de sua vida?";
           texto.innerText="Uma estrela nasce em uma nuvem de gás e poeira. A gravidade reúne esse material até iniciar a fusão nuclear. Ao longo da vida, ela transforma elementos e, no final, pode se tornar uma anã branca, estrela de nêutrons ou buraco negro, dependendo de sua massa.";
           descrevefigura.innerText="Imagem do Sol na cor branca ";
           break;
         case "3":
           urlNova = 'café.png';
-          textoprincipal.innerText="Como explicar o Sol?";
+          textoprincipal.innerText="O que era a "singularidade" na origem do Universo?";
           texto.innerText="Era um estado teórico de densidade e temperatura extremamente altas, no qual toda a matéria e energia do Universo observável estariam concentradas.";
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
           break;
     case "4":
           urlNova = 'café.png';
-          textoprincipal.innerText="Como explicar o Sol?";
+          textoprincipal.innerText="Qual é a composição do Universo?";
           texto.innerText="O Universo é composto principalmente por energia escura, matéria escura e matéria comum (átomos).";
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
           break;
      case "5":
           urlNova = 'café.png';
-          textoprincipal.innerText="Como explicar o Sol?";
+          textoprincipal.innerText="Quais são os elementos químicos mais abundantes do Universo?";
           texto.innerText="Os mais abundantes são hidrogênio e hélio..";
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
           break;
      case "6":
           urlNova = 'café.png';
-          textoprincipal.innerText="Como explicar o Sol?";
+          textoprincipal.innerText="Como o Sol produz a energia em forma de luz e calor que chega à Terra?";
           texto.innerText="Por meio da fusão nuclear em seu núcleo, onde o hidrogênio é transformado em hélio, liberando muita energia.";
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
           break;
      case "7":
           urlNova = 'café.png';
-          textoprincipal.innerText="Como explicar o Sol?";
+          textoprincipal.innerText="O que significa o termo nucleossíntese estelar?";
           texto.innerText="É o processo de formação de novos elementos químicos dentro das estrelas por meio de reações nucleares.";
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
           break;
      case "8":
           urlNova = 'café.png';
-          textoprincipal.innerText="Como explicar o Sol?";
+          textoprincipal.innerText="Qual é a diferença entre a nucleossíntese quiescente e a explosiva?";
           texto.innerText="A quiescente ocorre durante a vida normal da estrela, enquanto a explosiva acontece em eventos muito energéticos, como as supernovas.";
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
           break;
       case "9":
           urlNova = 'café.png';
-          textoprincipal.innerText="Como explicar o Sol?";
+          textoprincipal.innerText="Qual é a relação entre a morte das estrelas e a formação de novos planetas e sistemas estelares?";
           texto.innerText="Quando estrelas morrem, elas liberam elementos químicos no espaço. Esses materiais podem formar novas estrelas, planetas e outros corpos celestes.";
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
           break;
