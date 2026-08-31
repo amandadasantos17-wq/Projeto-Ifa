@@ -294,7 +294,7 @@ function trocarImagem(escolha) {
           urlNova = 'WhatsApp Image 2026-08-30 at 21.22.03 (2).jpeg';
           textoprincipal.innerText="O que significa o termo nucleossíntese estelar?";
           texto.innerText="É o processo de formação de novos elementos químicos dentro das estrelas por meio de reações nucleares.";
-          descrevefigura.innerText="Imagem do Sol na cor amarela ";
+          descrevefigura.innerText=" imagem apresenta um ciclo de reações nucleares chamado ciclo CNO, que ocorre no interior de estrelas. No centro há uma sequência circular de núcleos de carbono, nitrogênio e oxigênio, identificados como ¹²C, ¹³N, ¹³C, ¹⁴N, ¹⁵O e ¹⁵N. Setas indicam a ordem das reações, nas quais núcleos de hidrogênio são incorporados e são liberadas diferentes formas de energia e partículas, como raios gama (γ), pósitrons (β⁺) e neutrinos (νₑ). O ciclo mostra como o hidrogênio é transformado em hélio, liberando energia no processo, enquanto o carbono, o nitrogênio e o oxigênio atuam como elementos intermediários.";
           break;
      case "8":
           urlNova = 'WhatsApp Image 2026-08-31 at 00.04.33.jpeg';
