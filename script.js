@@ -266,6 +266,48 @@ function trocarImagem(escolha) {
           texto.innerText="O Sol visto a olho nu no espaço é na verdade branco. A coloração amarela que vemos aqui na superfície da Terra é por causa da atmosfera da Terra.";
           descrevefigura.innerText="Imagem do Sol na cor branca ";
           break;
+        case "3":
+          urlNova = 'café.png';
+          textoprincipal.innerText="Como explicar o Sol?";
+          texto.innerText="O Sol é uma estrela gigante feita de gás quente que fica no centro do nosso Sistema Solar, a 150 milhões de quilômetros da Terra. Ele dá luz e calor ao nosso planeta, controla a gravidade que segura os planetas ao seu redor e é essencial para a existência de toda a vida.";
+          descrevefigura.innerText="Imagem do Sol na cor amarela ";
+          break;
+    case "4":
+          urlNova = 'café.png';
+          textoprincipal.innerText="Como explicar o Sol?";
+          texto.innerText="O Sol é uma estrela gigante feita de gás quente que fica no centro do nosso Sistema Solar, a 150 milhões de quilômetros da Terra. Ele dá luz e calor ao nosso planeta, controla a gravidade que segura os planetas ao seu redor e é essencial para a existência de toda a vida.";
+          descrevefigura.innerText="Imagem do Sol na cor amarela ";
+          break;
+     case "5":
+          urlNova = 'café.png';
+          textoprincipal.innerText="Como explicar o Sol?";
+          texto.innerText="O Sol é uma estrela gigante feita de gás quente que fica no centro do nosso Sistema Solar, a 150 milhões de quilômetros da Terra. Ele dá luz e calor ao nosso planeta, controla a gravidade que segura os planetas ao seu redor e é essencial para a existência de toda a vida.";
+          descrevefigura.innerText="Imagem do Sol na cor amarela ";
+          break;
+     case "6":
+          urlNova = 'café.png';
+          textoprincipal.innerText="Como explicar o Sol?";
+          texto.innerText="O Sol é uma estrela gigante feita de gás quente que fica no centro do nosso Sistema Solar, a 150 milhões de quilômetros da Terra. Ele dá luz e calor ao nosso planeta, controla a gravidade que segura os planetas ao seu redor e é essencial para a existência de toda a vida.";
+          descrevefigura.innerText="Imagem do Sol na cor amarela ";
+          break;
+     case "7":
+          urlNova = 'café.png';
+          textoprincipal.innerText="Como explicar o Sol?";
+          texto.innerText="O Sol é uma estrela gigante feita de gás quente que fica no centro do nosso Sistema Solar, a 150 milhões de quilômetros da Terra. Ele dá luz e calor ao nosso planeta, controla a gravidade que segura os planetas ao seu redor e é essencial para a existência de toda a vida.";
+          descrevefigura.innerText="Imagem do Sol na cor amarela ";
+          break;
+     case "8":
+          urlNova = 'café.png';
+          textoprincipal.innerText="Como explicar o Sol?";
+          texto.innerText="O Sol é uma estrela gigante feita de gás quente que fica no centro do nosso Sistema Solar, a 150 milhões de quilômetros da Terra. Ele dá luz e calor ao nosso planeta, controla a gravidade que segura os planetas ao seu redor e é essencial para a existência de toda a vida.";
+          descrevefigura.innerText="Imagem do Sol na cor amarela ";
+          break;
+     case "9":
+          urlNova = 'café.png';
+          textoprincipal.innerText="Como explicar o Sol?";
+          texto.innerText="O Sol é uma estrela gigante feita de gás quente que fica no centro do nosso Sistema Solar, a 150 milhões de quilômetros da Terra. Ele dá luz e calor ao nosso planeta, controla a gravidade que segura os planetas ao seu redor e é essencial para a existência de toda a vida.";
+          descrevefigura.innerText="Imagem do Sol na cor amarela ";
+          break;
         default:
           urlNova = 'acessibilidade.png';
           textoprincipal.innerText="O que é Acessibilidade?";
