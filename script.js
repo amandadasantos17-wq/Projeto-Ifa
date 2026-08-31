@@ -270,7 +270,7 @@ function trocarImagem(escolha) {
           urlNova = 'WhatsApp Image 2026-08-30 at 21.22.02 (2).jpeg';
           textoprincipal.innerText="O que era a singularidade na origem do Universo?";
           texto.innerText="Era um estado teórico de densidade e temperatura extremamente altas, no qual toda a matéria e energia do Universo observável estariam concentradas.";
-          descrevefigura.innerText="Imagem do Sol na cor amarela ";
+          descrevefigura.innerText="A imagem representa um buraco negro no espaço. No centro, há uma região circular completamente escura, que representa o buraco negro. Ao redor dele existe um disco de matéria extremamente quente, formando um anel espiralado em tons de vermelho, laranja, amarelo e branco.Ao redor do disco aparecem feixes e linhas luminosas azuladas, que se estendem para cima e para os lados, representando campos magnéticos e jatos de energia.Também há pequenos traços brilhantes semelhantes a relâmpagos percorrendo o material ao redor do buraco negro.O fundo é quase totalmente preto e contém várias estrelas pequenas e distantes. A composição transmite a ideia de um objeto extremamente energético e poderoso no meio do espaço. ";
           break;
     case "4":
           urlNova = 'WhatsApp Image 2026-08-30 at 21.22.02 (1).jpeg';
