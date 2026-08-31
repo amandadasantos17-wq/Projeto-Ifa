@@ -297,7 +297,7 @@ function trocarImagem(escolha) {
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
           break;
      case "8":
-          urlNova = 'café.png';
+          urlNova = 'WhatsApp Image 2026-08-31 at 00.04.33.jpeg';
           textoprincipal.innerText="Qual é a diferença entre a nucleossíntese quiescente e a explosiva?";
           texto.innerText="A quiescente ocorre durante a vida normal da estrela, enquanto a explosiva acontece em eventos muito energéticos, como as supernovas.";
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
