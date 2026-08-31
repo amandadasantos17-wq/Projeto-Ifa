@@ -263,7 +263,7 @@ function trocarImagem(escolha) {
         case "2":
           urlNova = 'cordosol.jfif';
           textoprincipal.innerText="A verdadeira cor do SOL ";
-          texto.innerText="O Sol visto a olho nu no espaço é na verdade branco. A coloração amarela que vemos aqui na superfície da Terra é por causa da atmosfera da Terra.";
+          texto.innerText="Uma estrela nasce em uma nuvem de gás e poeira. A gravidade reúne esse material até iniciar a fusão nuclear. Ao longo da vida, ela transforma elementos e, no final, pode se tornar uma anã branca, estrela de nêutrons ou buraco negro, dependendo de sua massa.";
           descrevefigura.innerText="Imagem do Sol na cor branca ";
           break;
         case "3":
