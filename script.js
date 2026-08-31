@@ -267,7 +267,7 @@ function trocarImagem(escolha) {
           descrevefigura.innerText="Imagem do Sol na cor branca ";
           break;
         case "3":
-          urlNova = 'café.png';
+          urlNova = 'WhatsApp Image 2026-08-30 at 21.22.02 (2).jpeg';
           textoprincipal.innerText="O que era a "singularidade" na origem do Universo?";
           texto.innerText="Era um estado teórico de densidade e temperatura extremamente altas, no qual toda a matéria e energia do Universo observável estariam concentradas.";
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
