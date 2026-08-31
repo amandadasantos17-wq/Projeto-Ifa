@@ -300,7 +300,7 @@ function trocarImagem(escolha) {
           urlNova = 'WhatsApp Image 2026-08-31 at 00.04.33.jpeg';
           textoprincipal.innerText="Qual é a diferença entre a nucleossíntese quiescente e a explosiva?";
           texto.innerText="A quiescente ocorre durante a vida normal da estrela, enquanto a explosiva acontece em eventos muito energéticos, como as supernovas.";
-          descrevefigura.innerText="Imagem do Sol na cor amarela ";
+          descrevefigura.innerText="A imagem mostra uma nebulosa, formada por grandes nuvens de gás e poeira no espaço. No centro há uma região muito brilhante em tons de azul e branco, cercada por estruturas gasosas que se espalham em várias direções. Ao redor, predominam cores verde, azul, amarelo, laranja e marrom, formando filamentos e regiões de aparência irregular. O fundo é escuro, com algumas estrelas visíveis ao redor. A imagem representa os restos de uma estrela que, ao final de sua vida, liberou grande quantidade de matéria no espaço, enriquecendo o ambiente com elementos químicos. ";
           break;
       case "9":
           urlNova = 'WhatsApp Image 2026-08-30 at 21.27.48.jpeg';
