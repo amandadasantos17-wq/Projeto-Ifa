@@ -261,7 +261,7 @@ function trocarImagem(escolha) {
           descrevefigura.innerText="Imagem da explosão do Big Bang. ";
           break;
         case "2":
-          urlNova = 'cordosol.jfif';
+          urlNova = 'WhatsApp Image 2026-08-30 at 21.22.03.jpeg';
           textoprincipal.innerText="Como ocorre o nascimento e a evolução de uma estrela ao longo de sua vida?";
           texto.innerText="Uma estrela nasce em uma nuvem de gás e poeira. A gravidade reúne esse material até iniciar a fusão nuclear. Ao longo da vida, ela transforma elementos e, no final, pode se tornar uma anã branca, estrela de nêutrons ou buraco negro, dependendo de sua massa.";
           descrevefigura.innerText="Imagem do Sol na cor branca ";
