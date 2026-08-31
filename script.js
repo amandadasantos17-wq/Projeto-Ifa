@@ -264,7 +264,7 @@ function trocarImagem(escolha) {
           urlNova = 'WhatsApp Image 2026-08-30 at 21.22.03.jpeg';
           textoprincipal.innerText="Como ocorre o nascimento e a evolução de uma estrela ao longo de sua vida?";
           texto.innerText="Uma estrela nasce em uma nuvem de gás e poeira. A gravidade reúne esse material até iniciar a fusão nuclear. Ao longo da vida, ela transforma elementos e, no final, pode se tornar uma anã branca, estrela de nêutrons ou buraco negro, dependendo de sua massa.";
-          descrevefigura.innerText="Imagem do Sol na cor branca ";
+          descrevefigura.innerText="A imagem mostra um objeto celeste aproximadamente esférico, destacado contra um fundo completamente escuro e repleto de milhares de estrelas. O objeto apresenta uma aparência colorida e irregular, com grandes áreas em azul, vermelho e roxo, formando uma espécie de mistura de nuvens e manchas luminosas.A esfera ocupa a região central da imagem e possui bordas pouco definidas, como se fosse formada por gases e partículasNa parte superior e nas laterais, há regiões azuladas; o vermelho e o rosa predominam em várias áreas do centro e da parte inferior. Ao redor, o espaço é preenchido por numerosas estrelas pequenas e brilhantes, algumas com pontos de luz mais intensos.A imagem transmite a aparência de um remanescente de estrela ou uma nebulosa, visto em uma representação astronômica colorida. ";
           break;
         case "3":
           urlNova = 'WhatsApp Image 2026-08-30 at 21.22.02 (2).jpeg';
