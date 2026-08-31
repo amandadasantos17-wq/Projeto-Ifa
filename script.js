@@ -282,7 +282,7 @@ function trocarImagem(escolha) {
           urlNova = 'WhatsApp Image 2026-08-30 at 21.22.02.jpeg';
           textoprincipal.innerText="Quais são os elementos químicos mais abundantes do Universo?";
           texto.innerText="Os mais abundantes são hidrogênio e hélio..";
-          descrevefigura.innerText="Imagem do Sol na cor amarela ";
+          descrevefigura.innerText="A imagem mostra uma representação da tabela periódica do elemento hidrogênio. No centro há um quadrado com o símbolo químico “H”, em letras pretas grandes. No canto superior direito aparece o número “1”, que indica o número atômico do hidrogênio. Abaixo do símbolo está escrito “Hidrogênio”. O fundo é verde-claro e o elemento está delimitado por uma borda preta retangular.";
           break;
      case "6":
           urlNova = 'WhatsApp Image 2026-08-30 at 21.22.03 (1).jpeg';
