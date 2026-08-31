@@ -291,7 +291,7 @@ function trocarImagem(escolha) {
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
           break;
      case "7":
-          urlNova = 'café.png';
+          urlNova = 'WhatsApp Image 2026-08-30 at 21.22.03 (2).jpeg';
           textoprincipal.innerText="O que significa o termo nucleossíntese estelar?";
           texto.innerText="É o processo de formação de novos elementos químicos dentro das estrelas por meio de reações nucleares.";
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
