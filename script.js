@@ -279,7 +279,7 @@ function trocarImagem(escolha) {
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
           break;
      case "5":
-          urlNova = 'café.png';
+          urlNova = 'WhatsApp Image 2026-08-30 at 21.22.02.jpeg';
           textoprincipal.innerText="Quais são os elementos químicos mais abundantes do Universo?";
           texto.innerText="Os mais abundantes são hidrogênio e hélio..";
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
