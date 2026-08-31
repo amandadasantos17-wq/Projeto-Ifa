@@ -276,7 +276,7 @@ function trocarImagem(escolha) {
           urlNova = 'WhatsApp Image 2026-08-30 at 21.22.02 (1).jpeg';
           textoprincipal.innerText="Qual é a composição do Universo?";
           texto.innerText="O Universo é composto principalmente por energia escura, matéria escura e matéria comum (átomos).";
-          descrevefigura.innerText="Imagem do Sol na cor amarela ";
+          descrevefigura.innerText="A imagem é um infográfico com fundo azul-escuro, decorado com ilustrações de galáxias, estrelas e outros elementos do espaço.Na parte superior, em letras brancas grandes, está escrito “COMPOSIÇÃO DO UNIVERSO”.No centro há um gráfico circular que mostra a composição do universo:68% — Energia escura, representada pela maior parte do círculo, em azul-claro.27% — Matéria escura, representada em roxo.5% — Matéria comum, representada em laranja.Uma seta branca aponta para a parte laranja, identificando-a como “Matéria comum”.No centro do gráfico há pequenas ilustrações de galáxias e estrelas.Ao redor de todo o infográfico aparecem várias representações coloridas de galáxias espirais, galáxias elípticas, estrelas e objetos semelhantes a buracos negros. ";
           break;
      case "5":
           urlNova = 'WhatsApp Image 2026-08-30 at 21.22.02.jpeg';
