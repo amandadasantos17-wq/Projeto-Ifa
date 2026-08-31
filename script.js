@@ -257,7 +257,7 @@ function trocarImagem(escolha) {
         case "1":
           urlNova = 'WhatsApp Image 2026-08-30 at 21.22.01.jpeg';
           textoprincipal.innerText="O que é o Big Bang?";
-          texto.innerText="O Sol é uma estrela gigante feita de gás quente que fica no centro do nosso Sistema Solar, a 150 milhões de quilômetros da Terra. Ele dá luz e calor ao nosso planeta, controla a gravidade que segura os planetas ao seu redor e é essencial para a existência de toda a vida.";
+          texto.innerText="É o modelo que explica a origem do Universo, que começou há cerca de 13,8 bilhões de anos em um estado extremamente quente e denso e passou a se expandir.";
           descrevefigura.innerText="Imagem da explosão do Big Bang. ";
           break;
         case "2":
